@@ -1,0 +1,3 @@
+C:/Users/omri.asulin/Development/Ex2_C/cmake-build-debug/CMakeFiles/Ex2_C.dir
+C:/Users/omri.asulin/Development/Ex2_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/omri.asulin/Development/Ex2_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
